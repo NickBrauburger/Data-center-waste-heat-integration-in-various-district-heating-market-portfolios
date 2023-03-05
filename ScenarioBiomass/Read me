@@ -1,0 +1,3 @@
+This set of input files generates the basecase scenario for the Biomass market portfolio.
+If no DC waste heat intergration is to be investigated the upperlimit for the capacity to be integrated has to be set to 0, as in the current version the small DC type
+is integrated without a support scheme (which is implemented in the current code set)
